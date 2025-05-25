@@ -1,0 +1,32 @@
+[
+    {
+        "id": 2,
+        "nome": "Harry Potter e as Rel\u00edquias da Morte",
+        "autor": "J.K. Rowling",
+        "editora": "Saraiva"
+    },
+    {
+        "id": 3,
+        "nome": "Coraline",
+        "autor": "Neil Gaiman",
+        "editora": "Saraiva"
+    },
+    {
+        "id": 4,
+        "nome": "Frankenstein",
+        "autor": "Mary Shelley",
+        "editora": "Saraiva"
+    },
+    {
+        "id": 5,
+        "nome": "Assassinato no Expresso do Oriente",
+        "autor": "Agatha Christie",
+        "editora": "L&PM Editores"
+    },
+    {
+        "id": 6,
+        "nome": "Morte no Nilo",
+        "autor": "Agatha Christie",
+        "editora": "Harper Collins"
+    }
+]
