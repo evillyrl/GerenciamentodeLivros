@@ -61,7 +61,3 @@ Um aplicativo de desktop feito em **Python** com **Tkinter** e **SQLite** para g
 👩🏻Autora
 
 Desenvolvido por Evilly Rolim.
-
-📜 Licença
-
-Este projeto está licenciado sob a MIT License - sinta-se livre para usar e modificar.
